@@ -1,7 +1,7 @@
 name: bundle_resources_loader
 description: "Flutter plugin for searching files inside the iOS app bundle by filename and/or extension."
 version: 0.0.1
-homepage:
+repository: https://github.com/MrOlolo/bundle_resources_loader.git
 
 environment:
   sdk: ^3.7.2
