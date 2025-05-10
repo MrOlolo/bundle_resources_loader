@@ -20,9 +20,7 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  bundle_resources_loader:
-    git:
-      url: https://github.com/MrOlolo/bundle_resources_loader.git
+  bundle_resources_loader: ^0.0.1
 ```
 
 ## Usage
@@ -43,5 +41,6 @@ final files = await BundleResourcesLoader().searchResources(
 print(files);
 ```
 
-• If extension is omitted or '', it matches all extensions.
-• If filename is omitted or '', it matches all filenames.
+- If extension is omitted or '', it matches all extensions.
+
+- If filename is omitted or '', it matches all filenames.
