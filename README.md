@@ -22,7 +22,7 @@ Add to your `pubspec.yaml`:
 dependencies:
   bundle_resources_loader:
     git:
-      url: https://github.com/mrololo/app_bundle_file_searcher.git
+      url: https://github.com/MrOlolo/bundle_resources_loader.git
 ```
 
 ## Usage
@@ -30,7 +30,7 @@ dependencies:
 Import the package:
 
 ```dart
-import 'package:app_bundle_file_searcher/app_bundle_file_searcher.dart';
+import 'package:bundle_resources_loader/bundle_resources_loader.dart';
 ```
 
 Example search:
