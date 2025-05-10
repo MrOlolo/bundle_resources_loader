@@ -1,5 +1,5 @@
 name: bundle_resources_loader
-description: "A new Flutter plugin project."
+description: "Flutter plugin for searching files inside the iOS app bundle by filename and/or extension."
 version: 0.0.1
 homepage:
 
