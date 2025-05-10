@@ -20,7 +20,7 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  bundle_resources_loader: ^0.0.1
+  bundle_resources_loader: ^0.0.2
 ```
 
 ## Usage
